@@ -140,7 +140,7 @@ const materials = {
     emissiveIntensity: 0,
     transmission: 1,
     transparent: true,
-    thickness: 1,
+    thickness: 0.025,
     attenuationColor: '#ffffff',
     attenuationDistance: 1,
     opacity: 1,
